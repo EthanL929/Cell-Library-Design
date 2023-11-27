@@ -1,0 +1,37 @@
+magic
+tech tsmc180
+timestamp 1670606464
+<< nwell >>
+rect 0 429 132 866
+<< pohmic >>
+rect 0 7 132 32
+<< nohmic >>
+rect 0 834 132 859
+<< metal1 >>
+rect 0 834 132 859
+rect 0 434 132 446
+rect 0 401 132 413
+rect 0 377 132 389
+rect 0 353 132 365
+rect 0 329 132 341
+rect 0 7 132 32
+<< metal2 >>
+rect 99 0 113 866
+<< labels >>
+rlabel metal1 132 834 132 859 7 Vdd!
+rlabel metal2 99 866 113 866 5 Cross
+rlabel metal1 0 7 0 32 3 GND!
+rlabel metal1 132 7 132 32 7 GND!
+rlabel metal1 132 434 132 446 7 ScanReturn
+rlabel metal1 0 401 0 413 3 Scan
+rlabel metal1 132 401 132 413 7 Scan
+rlabel metal1 0 377 0 389 3 Test
+rlabel metal1 132 377 132 389 7 Test
+rlabel metal1 0 353 0 365 3 Clock
+rlabel metal1 132 353 132 365 7 Clock
+rlabel metal1 0 329 0 341 3 nReset
+rlabel metal1 132 329 132 341 7 nReset
+rlabel metal1 0 434 0 446 3 ScanReturn
+rlabel metal1 0 834 0 859 3 Vdd!
+rlabel metal2 99 0 113 0 1 Cross
+<< end >>

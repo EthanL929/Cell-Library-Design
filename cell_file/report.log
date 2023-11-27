@@ -1,0 +1,89 @@
+       Found directory /home/yl7m22/design/magic/tsmc180/cell_lib
+
+       Found optional cell in all.mag: nor2
+       Found optional cell in all.mag: and2
+       Found optional cell in all.mag: or2
+       Found optional cell in all.mag: nor3
+       Found magic file rdtype.mag
+       Found magic file smux2.mag
+       Found magic file smux3.mag
+       Found magic file mux2.mag
+       Found magic file fulladder.mag
+       Found magic file inv.mag
+       Found magic file nand2.mag
+       Found magic file nand3.mag
+       Found magic file trisbuf.mag
+       Found magic file buffer.mag
+       Found magic file leftbuf.mag
+       Found magic file rightend.mag
+       Found magic file tiehigh.mag
+       Found magic file tielow.mag
+       Found magic file rowcrosser.mag
+       Found magic file halfadder.mag
+       Found magic file xor2.mag
+       Found magic file nand4.mag
+       Found magic file nor2.mag
+       Found magic file and2.mag
+       Found magic file or2.mag
+       Found magic file nor3.mag
+       Found magic file all.mag
+       Found magic file scandtype.mag
+       Found magic file scanreg.mag
+       basic file checks completed ok
+
+       Found rdtype used in all
+       Found smux2 used in all
+       Found smux3 used in all
+       Found mux2 used in all
+       Found fulladder used in all
+       Found inv used in all
+       Found nand2 used in all
+       Found nand3 used in all
+       Found trisbuf used in all
+       Found buffer used in all
+       Found leftbuf used in all
+       Found rightend used in all
+       Found tiehigh used in all
+       Found tielow used in all
+       Found rowcrosser used in all
+       Found halfadder used in all
+       Found xor2 used in all
+       Found nand4 used in all
+       Found nor2 used in all
+       Found and2 used in all
+       Found or2 used in all
+       Found nor3 used in all
+       more file checks completed ok
+
+
+       Please confirm the following input values:
+
+TEAM: hh2u22 rs1u21 xj9n22 yl7m22 zz5g22
+
+DESIGNER(rdtype): rs1u21
+DESIGNER(smux2): zz5g22
+DESIGNER(smux3): zz5g22
+DESIGNER(mux2): zz5g22
+DESIGNER(fulladder): xj9n22
+DESIGNER(inv): xj9n22
+DESIGNER(nand2): yl7m22
+DESIGNER(nand3): yl7m22
+DESIGNER(trisbuf): rs1u21
+DESIGNER(buffer): xj9n22
+DESIGNER(leftbuf): hh2u22
+DESIGNER(rightend): hh2u22
+DESIGNER(tiehigh): hh2u22
+DESIGNER(tielow): hh2u22
+DESIGNER(rowcrosser): hh2u22
+DESIGNER(halfadder): yl7m22
+DESIGNER(xor2): yl7m22
+DESIGNER(nand4): yl7m22
+DESIGNER(nor2): zz5g22
+DESIGNER(and2): xj9n22
+DESIGNER(or2): xj9n22
+DESIGNER(nor3): zz5g22
+
+
+       Finishing infofile.txt
+
+       Writing handin.tar

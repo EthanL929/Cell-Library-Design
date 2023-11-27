@@ -1,0 +1,25 @@
+DESIGNER(rdtype): rs1u21
+DESIGNER(smux2): zz5g22
+DESIGNER(smux3): zz5g22
+DESIGNER(mux2): zz5g22
+DESIGNER(fulladder): xj9n22
+DESIGNER(inv): xj9n22
+DESIGNER(nand2): yl7m22
+DESIGNER(nand3): yl7m22
+DESIGNER(trisbuf): rs1u21
+DESIGNER(buffer): xj9n22
+DESIGNER(leftbuf): hh2u22
+DESIGNER(rightend): hh2u22
+DESIGNER(tiehigh): hh2u22
+DESIGNER(tielow): hh2u22
+DESIGNER(rowcrosser): hh2u22
+DESIGNER(halfadder): yl7m22
+DESIGNER(xor2): yl7m22
+DESIGNER(nand4): yl7m22
+DESIGNER(nor2): zz5g22
+DESIGNER(and2): xj9n22
+DESIGNER(or2): xj9n22
+DESIGNER(nor3): zz5g22
+TEAMSIZE: 5
+TEAM: hh2u22 rs1u21 xj9n22 yl7m22 zz5g22
+
